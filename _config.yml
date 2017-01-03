@@ -7,14 +7,14 @@
 
 # Site Settings
 locale                   : "en"
-title                    : "Site Title"
+title                    : "Swift with Me"
 title_separator          : "-"
-name                     : "Your Name"
-description              : "An amazing website."
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : "Victor Lee"
+description              : "A simple Swift programming language tutorial."
+url                      : "https://swiftwithme.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+repository               : "SwiftWithMe/swiftwithme.github.io"
+teaser                   : "/assets/images/swiftWithMeTeaserImage500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
@@ -48,7 +48,7 @@ atom_feed:
   path                   : # blank (default) uses feed.xml
 
 # SEO Related
-google_site_verification :
+google_site_verification : "sQ-I6JNs_q2BT8xjgHQs7rvLq1UyVmp-Pf_xlg3_54k"
 bing_site_verification   :
 alexa_site_verification  :
 yandex_site_verification :
@@ -60,7 +60,7 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 : # Open Graph/Twitter default site image
+og_image                 : "assets/images/swiftWithMeSocialImage.png" # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
@@ -77,11 +77,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Victor Lee"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
-  email            :
+  bio              : "A passionate iOS developer, with curious mind and constant learning attitude."
+  location         : "Taiwan"
+  email            : "specialvict@gmail.com"
   uri              :
   bitbucket        :
   codepen          :
@@ -241,6 +241,6 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      comments: # true
+      comments: true
       share: true
       related: true
