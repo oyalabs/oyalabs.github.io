@@ -1,4 +1,6 @@
-
+---
+title: "A new start"
+---
 
 #Hello World
 ## this is a great Blog beginning!
