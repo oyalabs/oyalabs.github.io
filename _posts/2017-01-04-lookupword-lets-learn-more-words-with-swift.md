@@ -17,7 +17,7 @@ title: "LookupWord - Let's learn more words with Swift"
 
 #### Objectives
 
-I want to record every word I look up from my MacBook, moreover, I want to review it later for practice. The build-in function of the dictionary is nice, I've use the three-tap(and also [other ways](https://computers.tutsplus.com/tutorials/quick-tip-5-ways-to-grab-a-definition-in-os-x--mac-31062)) for look up a word I not sure the meaning all the time. However, it didn't log what I've searched, and I keen to find my own way to do this.
+I want to record every word I look up from my MacBook, moreover, I want to review it later for practice. The build-in function of the dictionary is nice, I've use the three-tap(and also [other ways](https://computers.tutsplus.com/tutorials/quick-tip-5-ways-to-grab-a-definition-in-os-x--mac-31062)) for look up a word which I'm not sure the meaning. However, it didn't log what I've searched, and I keen to find my own way to do this.
 
 So, let's do it by ourself, to accomplish this function, and also, practice the Swift language both server side and client side.
 
@@ -28,7 +28,7 @@ What will you got after following this tutorial:
 3. A service on MacOS to lookup new word
 
 
-#### Procedure 
+#### Procedure
 
 only three steps:
 
@@ -42,6 +42,6 @@ only three steps:
 
 The great thing is that it's all **free**.
 
-Sounds nice, huh. 
+Sounds nice, huh.
 
 Let's Swift with me.
