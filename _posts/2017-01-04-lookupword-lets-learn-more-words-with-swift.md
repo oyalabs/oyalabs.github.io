@@ -1,7 +1,6 @@
 ---
 title: "LookupWord - Let's learn more words with Swift"
 ---
-# LookupWord - Let's learn more words with Swift
 
 ### A project with server side and client side application
 
@@ -17,11 +16,13 @@ title: "LookupWord - Let's learn more words with Swift"
 
 
 #### Objectives
+
 I want to record every word I look up from my MacBook, moreover, I want to review it later for practice. The build-in function of the dictionary is nice, I've use the three-tap(and also [other ways](https://computers.tutsplus.com/tutorials/quick-tip-5-ways-to-grab-a-definition-in-os-x--mac-31062)) for look up a word I not sure the meaning all the time. However, it didn't log what I've searched, and I keen to find my own way to do this.
 
 So, let's do it by ourself, to accomplish this function, and also, practice the Swift language both server side and client side.
 
 What will you got after following this tutorial:
+
 > 1. A cloud server that save your vocabulary
 2. A iOS client to browse your vocabulary
 3. A service on MacOS to lookup new word
@@ -31,9 +32,12 @@ What will you got after following this tutorial:
 
 only three steps:
 
-1. Set up vapor server and deploy on the Heroku
+> 1. Set up vapor server and deploy on the Heroku
 2. Write a scrip for look up new word
 3. Develop a iOS client to browse vocabulary
+
+
+
 
 
 The great thing is that it's all **free**.
