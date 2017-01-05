@@ -686,6 +686,22 @@ drop.run()
 
 ```
 
+> In order to make a request from our server, we need to change the setting a little bit, go to `Config/clients.json`, and change both `verifyHost` and `verifyCertificates` to false
+
+> **Warning Note**: Use extreme caution when modifying these settings. 
+
+`Config/clients.json`
+
+```
+{
+    "tls": {
+        "verifyHost": false,
+        "verifyCertificates": false,
+        "certificates": "mozilla"
+    }
+}
+```
+
 Hurrah!! now go test the application again by run it and use browser the lookup a word. 
 
 e.g. `http://0.0.0.0:8080/word/happy`
