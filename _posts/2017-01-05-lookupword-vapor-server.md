@@ -41,7 +41,7 @@ to do that, just change the target and Press run ▶️
 
 ![Change target and run!](http://g.recordit.co/kyCTBOKPLa.gif)
 
-![image](assets/images/postImages/vapor/vaporWorks.png)
+![image](assets/images/postImages/vapor/vaporWorks)
 
 
 
