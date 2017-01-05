@@ -15,7 +15,6 @@ title: "LookupWord - Vapor Server"
 
 **Steps**
 
-------
 
 > 1. Build a server
 2. Handling the HTTP request
@@ -30,19 +29,19 @@ title: "LookupWord - Vapor Server"
 create a new Vapor project
 
 ```shell
-$ vapor new LookupWord
+vapor new LookupWord
 ```
 
 go to the directory
 
 ```shell
-$ cd LookupWord 
+cd LookupWord 
 ```
 
 run Xcode
 
 ```shell
-$ vapor xcode
+vapor xcode
 ```
 
 It'll take a while, and then press `y` to open Xcode
