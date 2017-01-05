@@ -6,6 +6,7 @@ title: "LookupWord - Vapor Server"
 
 **Preparation**
 
+
 > 1. [Vapor](https://vapor.codes/) - Swift web framework 
 2. [PostgreSQL](https://www.postgresql.org/) - The database
 3. [owlbot dictionary](https://owlbot.info/api/v1/dictionary/owl) - Where we get the definition and example
@@ -13,6 +14,8 @@ title: "LookupWord - Vapor Server"
 
 
 **Steps**
+
+------
 
 > 1. Build a server
 2. Handling the HTTP request
