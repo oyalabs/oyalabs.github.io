@@ -83,7 +83,7 @@ drop.get("word", String.self) { req, word in
 
 		// return a json.
     return try JSON(node: [
-        "word": word
+        "new word": word
         ])
 }
 
@@ -98,7 +98,7 @@ This code will handle a GET request to `0.0.0.0:8080/word/[the word you want to 
 For now, it'll return a JSON, for example:
 
 Use your browser go to `http://0.0.0.0:8080/word/swift`
-It'll return `{"newWord":"swift"}`
+It'll return `{"new word":"swift"}`
 
 OK! we complete step 2!!
 
@@ -177,7 +177,7 @@ drop.get("word", String.self) { req, word in
     session.finishTasksAndInvalidate()
     
     return try JSON(node: [
-        "word": word
+        "new word": word
         ])
 }
 
@@ -406,7 +406,7 @@ drop.get("word", String.self) { req, word in
     session.finishTasksAndInvalidate()
     
     return try JSON(node: [
-        "word": word
+        "new word": word
         ])
 }
 
@@ -673,12 +673,11 @@ drop.get("word", String.self) { req, wordString in
 
             }
         }
-
+        
+		return try JSON(node: word.definitions().all().makeNode())
+    
     }
     
-    return try JSON(node: [
-        "new_word": wordString
-        ])
 }
 
 
@@ -854,6 +853,20 @@ then wait...
 ------
 
 After wait for a long time to do it, let's try it out!
+
+```bash
+remote: -----> Compressing...
+remote:        Done: 64.2M
+remote: -----> Launching...
+remote:        Released v10
+remote:        https://[your app].herokuapp.com/ deployed to Heroku
+remote:
+remote: Verifying deploy... done.
+To https://git.heroku.com/[your app].git
+   1b544e4..6a8e4df  master -> master
+```
+
+Go to the URL of your app!
 
 Congrats! you have your own server to record the word you've looked up.
 
