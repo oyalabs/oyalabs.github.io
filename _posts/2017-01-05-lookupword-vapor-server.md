@@ -1,5 +1,15 @@
 ---
 title: "LookupWord - Vapor Server"
+categories:
+  - Tutorial
+tags:
+  - vapor
+  - owlbot
+  - applescript
+  - heroku
+  - lookup word
+  - dictionary
+  - vocabulary
 ---
 
 ## A server which record the vocabulary you've looked up
