@@ -5,11 +5,8 @@ categories:
 tags:
   - vapor
   - owlbot
-  - applescript
   - heroku
-  - lookup word
-  - dictionary
-  - vocabulary
+  - swift
 ---
 
 ## A server which record the vocabulary you've looked up

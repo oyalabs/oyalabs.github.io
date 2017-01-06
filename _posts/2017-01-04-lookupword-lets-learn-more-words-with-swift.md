@@ -1,6 +1,5 @@
 ---
 title: "LookupWord - Let's learn more words with Swift"
-
 categories:
   - Tutorial
 tags:
@@ -8,9 +7,7 @@ tags:
   - owlbot
   - applescript
   - heroku
-  - lookup word
-  - dictionary
-  - vocabulary
+  - swift
 ---
 
 
