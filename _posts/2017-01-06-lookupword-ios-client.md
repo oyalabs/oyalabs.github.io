@@ -425,7 +425,13 @@ It'll open the browser, which is a tool can manipulate the data and watch it cha
 
 ### Step 5 - Create views to display
 
+I'm glad that you follow through here, let's deal with the view now.
 
+I'm going to both use lovely [UITableView](https://developer.apple.com/reference/uikit/uitableview) to display word list and the definition list.
+
+And that don't concern about the layout, focus on the data flow first, because, these two aspect can be treated separately, for the clarity.
+
+We're going the have a table view to display wall the words in the database, maybe the search function in the future, but let's start from the basic. So, what is the data every table view cell will needs? What word, of course, and for the basic, that is the only string we need.
 
 ### Step 6 - Display the data
 
