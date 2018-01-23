@@ -37,7 +37,7 @@ tags:
 
 > So, choose the projects you tend to join and track, get it started.
 
-![](../assets/images/asana-tutorial-image1.jpg)
+![](https://i.imgur.com/EwttxsY.jpg)
 
 1. Find all the projects from side bar
 2. Star the project you tend to track
@@ -50,7 +50,7 @@ Cool! You've selected the projects you like, and you can easily access from the 
 
 Now, let's introduce the feature which Trello lack of, the personal tasks - `My Tasks`. You can think of Asana just like a **todo list** app with teamwork function, which meant to let everyone knows what's the tasks need to be done, and when to be done. And not only the **tasks for yourself**, you can also **check others tasks** and ~~even assign new task to them~~ 😜
 
-![](../assets/images/asana-tutorial-image2.png)
+![](https://i.imgur.com/9dHVYVt.png)
 
 Inside `My Tasks`
 
@@ -62,7 +62,7 @@ Inside `My Tasks`
 
 > It's especially useful when tracking individual's progress
 
-![](../assets/images/asana-tutorial-image3.png)
+![](https://i.imgur.com/UmyMIH7.png)
 
 Inside each `Task`
 
@@ -73,7 +73,7 @@ Inside each `Task`
 5. One `Task` can be followed by multiple members, by @ people or manually add follower
 6. Set due date for `Task` to enable `Calendar` view
 
-![](../assets/images/asana-tutorial-image5.gif)
+![](https://imgur.com/dbzEM3o.gif)
 
 > You can also add task from app easily, like todo list
 
@@ -81,7 +81,7 @@ Inside each `Task`
 
 About project, we're trying to use [Scrum](https://www.scrum.org/resources/what-is-scrum) to manage our projects. for more details about it, please require another tutorial. [link to another tutorial](#)
 
-![](../assets/images/asana-tutorial-image4.png)
+![](https://i.imgur.com/4UYvV9F.png)
 
 Within `Project`, it can be created as `List View` or `Board View`, the one below is using board view, which easy to check the progress and manage each [Sprint](https://www.scrum.org/resources/what-is-a-sprint-in-scrum).
 
@@ -101,14 +101,15 @@ Ah yeah! Final step!
 
 - From `Calendar`, you can have a general idea about how things going in terms of time.
 
-![](../assets/images/asana-tutorial-image6.png)
+![](https://i.imgur.com/Fs4qcAC.jpg)
 
 - From `Progress`, you can check the completed rate, and also can join the project to `Dashboard`
-![](../assets/images/asana-tutorial-image7.png)
+
+![](https://i.imgur.com/bwePQ8n.png)
 
 - Within the `Dashboard`, you can check multiple projects at one glance. Also be able to export to an auto-updated Google Spreadsheet for further customize progress check.
 
-![](../assets/images/asana-tutorial-image8.jpg)
+![](https://i.imgur.com/8I6XKpI.png)
 
 
 
