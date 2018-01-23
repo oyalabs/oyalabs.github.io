@@ -31,22 +31,22 @@ tags:
 > 4. (Optional) Join our [Slack](oyalabs.slack.com) for communication
 > 5. (Optional) Know more about [Scrum](https://www.scrum.org/resources/what-is-scrum) - an agile project management framework
 
-#### Join and track projects
+### Join and track projects
 
-[Asana](app.asana.com) actually quite like [Trello](https://trello.com), but more focusing on the personal task management. Like Trello, which have multiple boards, Asana has projects. `Project` is more representative of our goal, which have certain objectives. `Project` goal should be simple, and should have clear expected outcomes, e.g. an app or a device or a marketing campaign. If one single `Task` is too large, should turn into a `Project`. Unlike Trello, Asana is made for tasks, not for record different items, links. Each item should be a `Task` or simple note to describe a task.
+[Asana](app.asana.com) actually quite like [Trello](https://trello.com), but more focusing on the personal task management. Like Trello, which has multiple boards, Asana has projects. `Project` is more representative of our goal, which have certain objectives. `Project` goal should be simple and should have clear expected outcomes, e.g. an app or a device or a marketing campaign. If one single `Task` is too large, should turn into a `Project`. Unlike Trello, Asana is made for tasks, not for record different items, links. Each item should be a `Task` or a simple note to describe a task.
 
 > So, choose the projects you tend to join and track, get it started.
 
 ![](https://i.imgur.com/EwttxsY.jpg)
 
-1. Find all the projects from side bar
+1. Find all the projects from sidebar
 2. Star the project you tend to track
-3. Starred projects on top of the side bar after setting up
+3. Starred projects on top of the sidebar after setting up
 4. (Optional) Create your own project by press the `+` beside `PROJECTS`
 
-#### Manage task - individual
+### Manage task - individual
 
-Cool! You've selected the projects you like, and you can easily access from the top of side bar.   
+Cool! You've selected the projects you like, and you can easily access from the top of sidebar.   
 
 Now, let's introduce the feature which Trello lack of, the personal tasks - `My Tasks`. You can think of Asana just like a **todo list** app with teamwork function, which meant to let everyone knows what's the tasks need to be done, and when to be done. And not only the **tasks for yourself**, you can also **check others tasks** and ~~even assign new task to them~~ 😜
 
@@ -66,8 +66,8 @@ Inside `My Tasks`
 
 Inside each `Task`
 
-1. You can edit `title`, `description` for clarify the task
-2. You can attach files with task
+1. You can edit `title`, `description` for clarifying the task
+2. You can attach files to task
 3. **One `Task` can only assign to one person**
 4. Using `Subtask` to assign to multiple members
 5. One `Task` can be followed by multiple members, by @ people or manually add follower
@@ -77,7 +77,7 @@ Inside each `Task`
 
 > You can also add task from app easily, like todo list
 
-#### Manage task - project
+### Manage task - project
 
 About project, we're trying to use [Scrum](https://www.scrum.org/resources/what-is-scrum) to manage our projects. for more details about it, please require another tutorial. [link to another tutorial](#)
 
@@ -85,14 +85,14 @@ About project, we're trying to use [Scrum](https://www.scrum.org/resources/what-
 
 Within `Project`, it can be created as `List View` or `Board View`, the one below is using board view, which easy to check the progress and manage each [Sprint](https://www.scrum.org/resources/what-is-a-sprint-in-scrum).
 
-But basically, whatever task you can think of, you just add it in the [Backlog](https://www.scrum.org/resources/what-is-a-product-backlog) list, can be just simple description, as long as can identify the task and what need to be done.
+But basically, whatever task you can think of, you just add it in the [Backlog](https://www.scrum.org/resources/what-is-a-product-backlog) list, can be a just simple description, as long as can identify the task and what needs to be done.
 
 And you can easily **drag and drop** the task you want **to move** to another list, just like Trello.
 
 To **show and hide the completed tasks**, can use the filter on the top left on the screen.
 
 
-#### Track progress
+### Track progress
 
 Ah yeah! Final step!
 > Now you've the projects you followed and you know how to manage the tasks for yourself and project.
@@ -115,10 +115,10 @@ Ah yeah! Final step!
 
 ### Conclusion
 
-Asana is a light-weight easy-to-lean project management app, and can be simply set up compare with Trello. Also within free tier, we can add unlimited projects to track, and be able to add/modify task readily.
+Asana is a light-weight easy-to-lean project management app and can be simply set up compare with Trello. Also within free tier, we can add unlimited projects to track and be able to add/modify task readily.
 
-This tutorial is not comprehensive, but still conclude the features we'll need to use in terms of manage the project and teamwork.
+This tutorial is not comprehensive, but still, conclude the features we'll need to use in terms of managing the project and teamwork.
 
-Please feel free to suggest and add content on our [Oyalabs Github](https://github.com/oyalabs/oyalabs.github.io).
+Please feel free to suggest and add content to our [Oyalabs Github](https://github.com/oyalabs/oyalabs.github.io).
 
 Cheers.
