@@ -101,7 +101,7 @@ Ah yeah! Final step!
 
 - From `Calendar`, you can have a general idea about how things going in terms of time.
 
-![](https://i.imgur.com/Fs4qcAC.jpg)
+![](https://i.imgur.com/8I6XKpI.png)
 
 - From `Progress`, you can check the completed rate, and also can join the project to `Dashboard`
 
@@ -109,7 +109,7 @@ Ah yeah! Final step!
 
 - Within the `Dashboard`, you can check multiple projects at one glance. Also be able to export to an auto-updated Google Spreadsheet for further customize progress check.
 
-![](https://i.imgur.com/8I6XKpI.png)
+![](https://i.imgur.com/Fs4qcAC.jpg)
 
 
 
