@@ -18,10 +18,10 @@ tags:
 ### Objectives
 
 > Onboard new team member to Wordle Design System. Don’t worry, it’s very simple and anyone can use it.  
-> The System can be used any way you want. In fact I encourage it!  
-> - Replicate Screens for potential clients.  
-> - Brain storm ideas for new layouts.  
-> - Explore new possibilities and applications.  
+> The System can be used any way you want. In fact I encourage: 
+> - Replicating Screens for potential clients.  
+> - Brain storming ideas for new layouts.  
+> - Exploring new possibilities and applications.  
 
 ### Preparation
 
@@ -64,7 +64,7 @@ Not so fast, we need to set up the libraries so that you can access all the desi
 ###  Now I can start?
 Now we’re ready! Go to the work folder and open up the “builder” file. This is where you’re going to be putting together screens easily!
 
-You’ll be greeted with an iPhone X screen. I suggest using the latest iPhone to design screens but if needed, I’ve included a layout for the iPhone 8 screen as well.
+You’ll be greeted with an iPhone X screen. I suggest using the latest iPhone to design screens, but if needed, I’ve included a layout for the iPhone 8 screen as well.
 
 Lets start out easy. Let’s recreate the loading screen!
 
@@ -90,3 +90,4 @@ I hope you enjoy using this tool to try out ideas and remix my designs and just 
 Go forth, and Design! XD
 
 Mubarak
+Full-Stack Designer, Oyalabs
