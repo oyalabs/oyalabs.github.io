@@ -43,7 +43,7 @@ The folder structure is simple! You’ve got 5 folders containing everything you
 5. Work
 	* Two starter files I’ve created for you. Use them (or not) to kick of your designs.
 
-![](https://imgur.com/p5EXSD7)
+![](https://i.imgur.com/p5EXSD7.png)
 
 ### So, how do I get started?
 Not so fast, we need to set up the libraries so that you can access all the design elements from Sketch.
@@ -59,7 +59,7 @@ Not so fast, we need to set up the libraries so that you can access all the desi
 	* 7_oya_components
 4. You’re set!
 
-![](https://imgur.com/rCXKvq9)
+![](https://i.imgur.com/rCXKvq9.png)
 
 ###  Now I can start?
 Now we’re ready! Go to the work folder and open up the “builder” file. This is where you’re going to be putting together screens easily!
@@ -68,18 +68,18 @@ You’ll be greeted with an iPhone X screen. I suggest using the latest iPhone t
 
 Lets start out easy. Let’s recreate the loading screen!
 
-![](https://imgur.com/R5luMg4)
+![](https://i.imgur.com/R5luMg4.png)
 
 1. Click the “Add Symbol” button on the toolbar.
 2. Go to Colour > Main > PrimaryAlt. Place the symbol on the Artboard.
-![](https://imgur.com/rcnxGWm)
+![](https://i.imgur.com/rcnxGWm.png)
 3. Resize it to fill the whole screen.
 4. In the layers panel on the left, make sure the “iPhone Interface” folder is always on top.
-![](https://imgur.com/rMP1SM2)
+![](https://i.imgur.com/rMP1SM2.png)
 5. Lets add another symbol. This time the Oya Logo. Icons > Oya.
 6. Move it to the middle.
 7. It’s the wrong colour though. Lets fix it! On the right panel underneath “Overrides”, you should see an arrow and “Colour”. Click the dialog box and navigate to the colour you want. (Every symbol have customisable overrides that allow you to customise things like text, colour, and even symbols in the same category.)
-![](https://imgur.com/YDleO9r)
+![](https://i.imgur.com/YDleO9r.png)
 
 ###  Watch me show you!
 [![Video Wordle DS Tutorial](https://github.com/oyalabs/oyalabs.github.io/blob/master/assets/images/wds_tutorial_image7.png)](https://www.youtube.com/watch?v=xxjtf9Bpj4A)
