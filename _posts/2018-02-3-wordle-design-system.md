@@ -82,7 +82,7 @@ Lets start out easy. Let’s recreate the loading screen!
 ![](https://i.imgur.com/YDleO9r.png)
 
 ###  Watch me show you!
-[![Video Wordle DS Tutorial](https://github.com/oyalabs/oyalabs.github.io/blob/master/assets/images/wds_tutorial_image7.png)](https://www.youtube.com/watch?v=xxjtf9Bpj4A)
+[![Video Wordle DS Tutorial](https://i.imgur.com/5ejyjUX.png)](https://www.youtube.com/watch?v=xxjtf9Bpj4A)
 
 ### Conclusion
 I hope you enjoy using this tool to try out ideas and remix my designs and just run with it! Hopefully we will be able to generate new ideas for our product!
