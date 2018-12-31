@@ -1,0 +1,20 @@
+{
+    "webcredentials": {
+        "apps": [
+            "Y2Y8T89AN3.com.oyalabs.OyaStory"
+        ]
+    },
+    "applinks": {
+        "apps": [
+            "Y2Y8T89AN3.com.oyalabs.OyaStory"
+        ],
+        "details": [
+            {
+                "appID": "Y2Y8T89AN3.com.oyalabs.OyaStory",
+                "paths": [
+                    "*"
+                ]
+            }
+        ]
+    }
+}
