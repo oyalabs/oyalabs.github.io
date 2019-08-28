@@ -2,13 +2,13 @@
     "webcredentials": {
         "apps": [
             "Y2Y8T89AN3.com.oyalabs.OyaStory",
-            "KRUG4M7QRJ.com.oyalabs.WunderApp"
+            "KRUG4M7QRJ.com.oyalabs.WunderX"
         ]
     },
     "applinks": {
         "apps": [
             "Y2Y8T89AN3.com.oyalabs.OyaStory",
-            "KRUG4M7QRJ.com.oyalabs.WunderApp"
+            "KRUG4M7QRJ.com.oyalabs.WunderX"
         ],
         "details": [
             {
@@ -18,7 +18,7 @@
                 ]
             },
             {
-                "appID": "KRUG4M7QRJ.com.oyalabs.WunderApp",
+                "appID": "KRUG4M7QRJ.com.oyalabs.WunderX",
                 "paths": [
                     "*"
                 ]
